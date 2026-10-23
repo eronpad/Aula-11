@@ -1,0 +1,8 @@
+Pergunta:
+Explique como a sobrescrita de métodos permite comportamentos diferentes para objetos da mesma hierarquia.
+
+Resposta: Sobescrita do método serve para que Classes do "Mesmo TIPO" fazerem coisas do mesmo tipo porem diferente, Tipo Cachorro.comunicacao(); Gato.comunicacao(); Humano.comunicacao();
+
+Pergunta:
+Descreva o mecanismo de sobrecarga de métodos e como ele difere da sobrescrita em termos de polimorfismo.
+Resposta: c.somar(1,2);, c.somar(1,2,3) serve pra poder fazer a mesma coisa com parâmetros diferentes. 
